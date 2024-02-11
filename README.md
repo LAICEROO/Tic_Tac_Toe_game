@@ -18,4 +18,5 @@ This is a simple implementation of the classic Tic-Tac-Toe game using Python's T
 6. Click the "RESTART" button to start a new game.
 
 ## Screenshots
-![image](https://github.com/LAICEROO/Tic_Tac_Toe_game/assets/93771973/9aae0de9-ec78-431d-b24e-8524a48f921a)
+![image](https://github.com/LAICEROO/Tic_Tac_Toe_game/assets/93771973/9aae0de9-ec78-431d-b24e-8524a48f921a) ![image](https://github.com/LAICEROO/Tic_Tac_Toe_game/assets/93771973/532bcef5-10ed-4f38-9d6b-6b0fdaab6fd1)
+
