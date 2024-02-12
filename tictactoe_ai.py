@@ -8,6 +8,10 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('TIC TAC TOE AI')
 screen.fill(BG_COLOR)
 
+class Game:
+    def __init__(self):
+        pass
+    
 def main():
     while True:
         for event in pygame.event.get():
