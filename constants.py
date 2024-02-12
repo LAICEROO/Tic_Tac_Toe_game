@@ -1,0 +1,5 @@
+WIDTH = 600
+HEIGHT = 600
+
+# COLORS
+BG_COLOR = (92, 92, 92)
